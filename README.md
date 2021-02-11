@@ -1,6 +1,6 @@
 ### Hi! I'm [Daniil](https://dankondr.com) 👋🏼
 
-I'm a **Back End Developer** based in Moscow ❄️. I'm in love with **Python**, specifically Flask. Interested in software architecture, tech and design ❤️
+I'm a **Software Engineer** based in Moscow ❄️. I'm in love with **Python** and **C++**. Interested in software architecture, tech and design ❤️
 
 <!--
 **dankondr/dankondr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
