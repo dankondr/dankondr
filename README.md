@@ -1,6 +1,6 @@
 ### Hi! I'm [Daniil](https://dankondr.com) 👋🏼
 
-I'm a **Software Engineer** based in Moscow ❄️. I'm in love with **Python** and **C++**. Interested in software architecture and design ❤️
+I'm a **Software Engineer** based in Moscow ❄️. I love to solve hard tasks. Interested in distributed systems and cloud-native applications.
 
 <!--
 **dankondr/dankondr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
